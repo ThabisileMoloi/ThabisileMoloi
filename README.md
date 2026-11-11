@@ -1,6 +1,6 @@
 # Hi, I'm Thabisile Moloi
 
-I have a BSc Honours in Computer Science from the University of Limpopo. I work with artificial intelligence, machine learning and data analysis, software engineering, and I'm looking for a graduate role.
+I have a BSc Honours in Computer Science from the University of Limpopo. I work with artificial intelligence, machine learning,data analysis, software engineering, and I'm looking for a graduate role.
 
 ## What I've worked on
 - Honours research: predicting student dropout risk in online learning with machine learning
